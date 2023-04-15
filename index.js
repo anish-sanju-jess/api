@@ -2,6 +2,10 @@ import express from 'express';
 import resources from './videos.json' //assert { type: 'json' };
 import stress from './stress.json' //assert { type: 'json' };
 import { Scrap } from './news.js'
+// const express = require('express')
+// const resources = require('./videos.json')
+// const stress = require('./stress.json')
+// const { Scrap } = require('./news.js')
 const app = express();
 
 const scrap = new Scrap()
@@ -48,4 +52,4 @@ app.get('/crypto', async (req, res) => {
 
 
 
-app.listen(80)
+app.listen(3000)
