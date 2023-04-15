@@ -9,7 +9,8 @@
             "source2" : "https://developers.google.com/machine-learning/crash-course",
             "source3" : "https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524", 
             "source4" : "https://www.google.com/aclk?sa=l&ai=DChcSEwiK-qKD66v-AhW7Vn0KHXohASwYABABGgJzZg&sig=AOD64_3iMiDcHjZhN0bq5mgzpp8G_l-Hog&q&adurl&ved=2ahUKEwjr452D66v-AhVYSGwGHaxbARgQ0Qx6BAgJEAE"
-        }
+        },
+        "thumbnail" : "https://dtmvamahs40ux.cloudfront.net/gl-academy/course/course-682-AIML.jpg"
     }, 
 
 
@@ -23,7 +24,8 @@
             "source2" : "https://www.udemy.com/course/blockchain-and-deep-learning-future-of-ai/",
             "source3" : "https://www.udemy.com/course/introduction-to-cryptocurrencies/", 
             "source4" : "https://www.udemy.com/course/understanding-blockchain-technology/"
-        }
+        },
+        "thumbnail" : "https://wtop.com/wp-content/uploads/2018/02/ThinkstockPhotos-865521604.jpg"
     }, 
 
 
@@ -38,7 +40,8 @@
             "source2" : "https://www.simplilearn.com/learn-iot-basics-skillup",
             "source3" : "https://www.google.com/aclk?sa=l&ai=DChcSEwi7k7OM7Kv-AhX2gUsFHScTCRcYABABGgJzZg&sig=AOD64_2PJISS_E7EqyphzcsHMQYMR2rm6A&q&adurl&ved=2ahUKEwj3k6iM7Kv-AhWOSWwGHWUODc4Q0Qx6BAgIEAE", 
             "source4" : "https://www.techtarget.com/iotagenda/definition/Internet-of-Things-IoT"
-        }
+        },
+        "thumbnail" : "https://www.techavy.com/wp-content/uploads/2019/11/74.jpg"
     }, 
 
 
@@ -53,7 +56,8 @@
             "source2" : "https://www.investopedia.com/terms/c/cloud-computing.asp",
             "source3" : "https://www.google.com/aclk?sa=l&ai=DChcSEwjA6KjE7Kv-AhWRSn0KHUt8CNsYABAAGgJzZg&sig=AOD64_32Yehnrnh_e-e_VPwl5ulZ5AIaig&q&adurl&ved=2ahUKEwjn4qLE7Kv-AhVKW2wGHS2xB9IQ0Qx6BAgIEAE", 
             "source4" : "https://www.mygreatlearning.com/cloud-computing/free-courses"
-        }
+        },
+        "thumbnail" : "https://www.neojobmeeting.com/wp-content/uploads/2020/03/Untitled-3.jpg"
     },
 
 
@@ -68,7 +72,8 @@
             "source2" : "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-cyber-security",
             "source3" : "https://www.kaspersky.co.in/resource-center/definitions/what-is-cyber-security", 
             "source4" : "https://intellipaat.com/blog/what-is-cyber-security/"
-        }
+        },
+        "thumbnail" : "https://g.foolcdn.com/editorial/images/610632/digital-cybersecurity-concept.jpg"
     }, 
 
 
@@ -83,7 +88,8 @@
             "source2" : "https://sopa.tulane.edu/blog/whats-difference-between-ar-and-vr",
             "source3" : "https://www.google.com/aclk?sa=l&ai=DChcSEwj4v-Xk7av-AhXZdH0KHVS_D2UYABABGgJzZg&sig=AOD64_0-DFv2wV6A4QM1MyWbszYvhQm-yA&q&adurl&ved=2ahUKEwil197k7av-AhVvcGwGHW-LAREQ0Qx6BAgJEAE", 
             "source4" : "https://www.coursera.org/googlearvr"
-        }
+        },
+        "thumbnail" : "https://www.innovatorsmag.com/wp-content/uploads/2017/02/iStock-621252568.jpg"
     }, 
 
 
@@ -98,7 +104,8 @@
             "source2" : "https://www.cisco.com/c/en/us/solutions/what-is-5g.html",
             "source3" : "https://www.verizon.com/about/our-company/5g/what-5g", 
             "source4" : "https://www.thalesgroup.com/en/markets/digital-identity-and-security/mobile/inspired/5G"
-        }
+        },
+        "thumbnail" : "https://www.kivodaily.com/wp-content/uploads/2019/09/5G.jpg"
     }, 
 
 
@@ -113,7 +120,8 @@
             "source2" : "https://www.investopedia.com/terms/q/quantum-computing.asp",
             "source3" : "https://skillsbuild.org/students/course-catalog/quantum-computing", 
             "source4" : "https://www.mindluster.com/certificate/330"
-        }
+        },
+        "thumbnail" : "https://bleuwire.com/wp-content/uploads/2018/12/Quantum-Computing-business.jpg"
     }, 
 
     "green" :
@@ -127,7 +135,8 @@
             "source2" : "https://www.electropages.com/blog/2019/09/what-is-green-technology",
             "source3" : "https://cleartax.in/g/terms/green-tech",  
             "source4" : "https://www.ingentaconnect.com/contentone/asp/asl/2017/00000023/00000009/art00102"
-        }
+        },
+        "thumbnail" : "https://www.greentechnologyinfo.com/wp-content/uploads/2020/10/green1-1024x576.jpg"
     }, 
 
     "robotics" :
@@ -141,7 +150,8 @@
             "source2" : "https://builtin.com/robotics",
             "source3" : "https://www.britannica.com/technology/robot-technology", 
             "source4" : "https://sciencetrek.org/sciencetrek/topics/robots/facts.cfm"
-        }
+        },
+        "thumbnail" : "https://static.wixstatic.com/media/a0442d_1658b3cf5be44cfda5f4f3fbe5012bdf~mv2.png/v1/fit/w_1000%2Ch_798%2Cal_c/file.png"
     }
 
 
