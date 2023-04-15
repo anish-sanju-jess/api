@@ -1,14 +1,14 @@
-import * as cheerio from 'cheerio';
-import { fetch } from 'undici';
+const  cheerio = require('cheerio');
+const {fetch} = require('undici')
 
 
 
-export class Scrap {
+class Scrap {
     BASE_URL = "https://tldr.tech/api/latest/";
     page;
     constructor(page = 'tech') {
         this.page = this.BASE_URL.concat(page);
-        console.log(this.page)
+        
     }
 
      async latest(page = 'tech') {
@@ -45,4 +45,6 @@ export class Scrap {
     
 }
 
-console.log(new Scrap('ai'))
+module.exports.Scrap = Scrap
+
+
