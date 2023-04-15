@@ -1,7 +1,6 @@
 import express from 'express';
-import * as cheerio from 'cheerio';
-import resources from './videos.json' assert { type: 'json' };
-import stress from './stress.json' assert { type: 'json' };
+import resources from './videos.json' //assert { type: 'json' };
+import stress from './stress.json' //assert { type: 'json' };
 import { Scrap } from './news.js'
 const app = express();
 
