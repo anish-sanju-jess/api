@@ -1,28 +1,20 @@
-// import express from 'express';
-// import resources from './videos.json' //assert { type: 'json' };
-// import stress from './stress.json' //assert { type: 'json' };
-// import { Scrap } from './news.js'
 const express = require('express')
 const resources = require('./videos.json')
 const stress = require('./stress.json')
 const { Scrap } = require('./news.js')
+const quote = require('./quotes.json')
 const app = express();
 
 const scrap = new Scrap()
 
+function sendRandomItem(array) {
+    const randomIndex = Math.floor(Math.random() * array.length);
+    const randomItem = array[randomIndex];
+    return randomItem
+}
 
 app.get('/', (req, res) => {
-    fetch('https://ron-swanson-quotes.herokuapp.com/v2/quotes')
-        .then(response => response.json())
-        .then(data => {
-
-            res.send(data);
-
-        })
-        .catch(error => {
-            console.error(error);
-            res.status(500).send('Internal server error');
-        });
+   res.send(sendRandomItem(quote))
 })
 
 
