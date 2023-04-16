@@ -31,7 +31,7 @@ cd api
 npm i
 ```
 
-### 4. Run the main file
+### 4. Run the main file (will be running on localhost:3000)
 
 ```
 node index.js
