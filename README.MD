@@ -8,7 +8,7 @@ The API for the MindMate Website
 
 # Tech Stack
 
-Express js
+Express js, 
 Cheerio js
 
 # Installation Steps
