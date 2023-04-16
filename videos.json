@@ -18,7 +18,7 @@
         "name" : "Blockchain",
         "intro" : "Blockchain is a decentralized, digital ledger technology that is used to securely record transactions across a network of computers. It was initially introduced in 2008 as the underlying technology for the digital currency, Bitcoin. However, the applications of blockchain technology have since expanded beyond just cryptocurrencies.", 
         "link" : "https://youtu.be/qF7dkrce-mQ", 
-        "decription" : "sometext",
+        "decription" : "The technology has a wide range of potential applications beyond cryptocurrency, such as in supply chain management, voting systems, and digital identity verification. Its ability to facilitate trust and transparency in transactions has made it a popular tool for businesses, governments, and individuals looking to improve efficiency and security in various industries.",
         "externals" : {
             "source1" : "https://developer.ibm.com/technologies/blockchain/", 
             "source2" : "https://www.udemy.com/course/blockchain-and-deep-learning-future-of-ai/",
@@ -34,7 +34,7 @@
         "name" : "IoT",
         "intro" : "The Internet of Things (IoT) is a term used to describe the network of physical devices, vehicles, home appliances, and other objects that are connected to the internet and can communicate with each other. These devices are embedded with sensors, software, and other technologies that allow them to collect and exchange data.", 
         "link" : "https://www.youtube.com/watch?v=LlhmzVL5bm8&pp=ygUMZmlyZXNoaXAgSW90", 
-        "decription" : "sometext",
+        "decription" : "IoT enables businesses and individuals to gather insights and make data-driven decisions in real-time, leading to improved efficiency, productivity, and cost savings. However, it also poses significant challenges in terms of data privacy, security, and management. As the number of connected devices continues to grow, the development of standards and best practices for IoT is becoming increasingly important.",
         "externals" : {
             "source1" : "https://geekflare-com.webpkgcache.com/doc/-/s/geekflare.com/internet-of-things-iot-learning-resources/", 
             "source2" : "https://www.simplilearn.com/learn-iot-basics-skillup",
